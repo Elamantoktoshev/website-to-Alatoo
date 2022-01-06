@@ -1,12 +1,12 @@
 # website-to-Alatoo
 
 
-This is site to Ala too International University
-
+**This is site to Ala too International University
+**
 We used HTML, CSS, JS, BOOTSTRAP, JQUERY
+****
 
-
-
+**Cover**
 ![Снимок экрана от 2022-01-06 23-55-48](https://user-images.githubusercontent.com/73353291/148429232-f46917d0-50c4-49fe-bcd7-9f2b30519f54.png)
 
 
@@ -41,5 +41,10 @@ We used HTML, CSS, JS, BOOTSTRAP, JQUERY
 ![Снимок экрана от 2022-01-06 23-57-29](https://user-images.githubusercontent.com/73353291/148429434-f0fbb6d9-33ae-43f7-9ea9-c3409c143858.png)
 
 
+Our video presentation https://drive.google.com/drive/folders/1ZucaIjPMT2jqIQwhKbVs5x8LT2hA3BG4?usp=sharing
 
+
+**just be happy!**
+
+**Regards Elaman and Akmal**
 
